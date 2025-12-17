@@ -29,9 +29,6 @@ site_author = "<your name here>"
 # Read more: https://zensical.org/docs/setup/basics/#site_url
 site_url = "https://aryanpandey8047.github.io/docs-test-1/"
 
-# Set to false to remove the "Made with Zensical" notice from the footer
-generator = false
-
 # The copyright notice appears in the page footer and can contain an HTML
 # fragment.
 #
