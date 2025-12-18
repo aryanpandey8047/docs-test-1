@@ -669,6 +669,8 @@ Then bind `initialIndex`:
 
 Surface KPI-style values computed from state or data.
 
+![Summary card example](images/components/summary_card.gif)
+*Setting static options to summary cards
 ```json
 {
   "type": "SummaryCard",
@@ -1204,6 +1206,8 @@ Native date and datetime picker with extensive customization options for forms a
   }
 }
 ```
+![date picker gif](images/components/date_picker.gif)
+*How to use date picker
 
 **Key Properties**
 
