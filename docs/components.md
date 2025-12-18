@@ -671,6 +671,7 @@ Surface KPI-style values computed from state or data.
 
 ![Summary card example](images/components/summary_card.gif)
 *Setting static options to summary cards
+
 ```json
 {
   "type": "SummaryCard",
@@ -933,6 +934,9 @@ The editor supports the following markdown-like syntax:
 ## ChipSelect
 
 A flexible component that allows users to make single or multiple selections from a set of chips. It is ideal for filtering, tagging, or selecting options in a visually engaging way.
+
+![Summary card example](images/components/chip_select.gif)
+*Setting static options to chip select
 
 ```json
 {
